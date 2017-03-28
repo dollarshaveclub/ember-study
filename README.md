@@ -1,5 +1,7 @@
 # Ember-study
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dollarshaveclub/ember-study.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
